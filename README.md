@@ -102,11 +102,6 @@ ts
 Copy
 Edit
 import.meta.env.VITE_API_URL
-📸 Screenshots
-
-| 🧾 Input Form | 📅 Generated Itinerary |
-|--------------|------------------------|
-| ![Form](./screenshots/form.png) | ![Itinerary](./screenshots/itinerary.png) |
 
 
 Form Input	Day-wise Itinerary
@@ -119,3 +114,9 @@ Form Input	Day-wise Itinerary
 
 ✨ User login + saved plans
 
+```
+📸 Screenshots
+
+| 🧾 Input Form | 📅 Generated Itinerary |
+|--------------|------------------------|
+| ![Form](./screenshots/form.png) | ![Plan 1](./screenshots/plan1.png)<br>![Plan 2](./screenshots/plan2.png) |
